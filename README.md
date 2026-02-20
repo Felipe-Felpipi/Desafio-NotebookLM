@@ -35,3 +35,5 @@ Referências com links
 
 Objetivo geral alcançado na proposta:
 Criar um miniguia de estudo reutilizável que estimule o uso da IA (NotebookLM) de forma ativa e crítica, combinando curadoria de fontes confiáveis, organização do conhecimento, pensamento crítico e produção de materiais práticos (resumos, glossário, flashcards, planos). Tudo ancorado em fontes abertas e focado em educação financeira introdutória, tema relevante e aplicável imediatamente (especialmente no contexto brasileiro de 2026).
+
+https://notebooklm.google.com/notebook/53860f37-32e6-475f-a7db-e981c937c47f?authuser=6
